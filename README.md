@@ -12,7 +12,7 @@ Ele foi criado para aprimorar habilidades e conhecimentos em desenvolvimento web
 
 <h2>Como usar</h2>
 <p>Acesse a página clicando no link.
-<a href="https://patrickrosa1.github.io/Pagina-PetLife/"> Clique aqui </a>
+<a href="https://patrickrosa1.github.io/Pagina-PetLife/" target="_blank"> Clique aqui </a>
   </p>
 
 Autor: Patrick Rosa <br>
